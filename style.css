@@ -1,0 +1,26 @@
+.bg-color-prime {
+    background-color: #FFF9F4;
+}
+
+.text-color-prime {
+    color: #FA804C;
+}
+
+.img-bg-color {
+    background-color: #F1F1F1;
+}
+
+.btn-bg-prime {
+    background-color: #3D4FF3;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #dc3545;
+    color: white;
+}
+
+.nav-margin {
+    margin-left: 5%;
+    margin-right: 20%;
+}
